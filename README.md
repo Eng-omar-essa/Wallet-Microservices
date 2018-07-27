@@ -12,7 +12,7 @@ git clone https://github.com/Eng-omar-essa/Wallet-Microservices.git
 
 2. Build and run the app using maven
 
-cd stockhandeling
+cd wallet-microservices
 
 mvn package
 
